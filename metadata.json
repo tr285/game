@@ -1,0 +1,6 @@
+{
+  "name": "VibeSlasher",
+  "description": "An addictive, fast-paced Gen-Z cyber roguelite. Slash meme glitches, upgrade your vibe stats, unlock cool badges, and ride synthwave rhythms to the top!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
